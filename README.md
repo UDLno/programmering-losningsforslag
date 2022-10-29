@@ -1,7 +1,7 @@
 ### Løsningsforslag
 
 Dette prosjektet inneholder løsningsforslag til diverse øvingsoppgaver
-i diverse programmeringsfag i norsk skole.
+og eksamenssett i diverse fag i norsk skole.
 
 ### Undervisning
 
